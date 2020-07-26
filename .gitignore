@@ -1,0 +1,4 @@
+# Elementos a ignorar
+
+/.vscode
+package.json
